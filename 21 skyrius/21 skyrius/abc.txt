@@ -1,0 +1,5 @@
+vardas1 25 8.8
+vardas2 84 9.5
+abcde 25 3.4
+abdefg 12 4.5
+zzzz 92 8.99

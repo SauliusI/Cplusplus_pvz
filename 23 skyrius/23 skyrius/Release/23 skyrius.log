@@ -1,0 +1,16 @@
+﻿Build started 2016-01-10 17:52:59.
+     1>Project "c:\Users\Saulius\documents\visual studio 2013\Projects\23 skyrius\23 skyrius\23 skyrius.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "23 skyrius.cpp"
+         23 skyrius.cpp
+     1>23 skyrius.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\saulius\documents\visual studio 2013\Projects\23 skyrius\Release\23 skyrius.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\saulius\documents\visual studio 2013\Projects\23 skyrius\Release\23 skyrius.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\saulius\documents\visual studio 2013\Projects\23 skyrius\Release\23 skyrius.lib" /MACHINE:X86 /SAFESEH "Release\23 skyrius.obj"
+         Generating code
+         Finished generating code
+         23 skyrius.vcxproj -> c:\users\saulius\documents\visual studio 2013\Projects\23 skyrius\Release\23 skyrius.exe
+     1>Done Building Project "c:\Users\Saulius\documents\visual studio 2013\Projects\23 skyrius\23 skyrius\23 skyrius.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.01
